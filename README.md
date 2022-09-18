@@ -8,5 +8,5 @@ https://cinalselin-react-router-woodies.netlify.app/
 
 ## Screenshots
 
-![App Screenshot](./src/Images/screenshot.png)
+![App Screenshot](./src/Images/screenhot.png)
 ![App Screenshot](./src/Images/screenshot2.png)

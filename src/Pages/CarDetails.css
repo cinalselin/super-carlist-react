@@ -1,0 +1,11 @@
+.car-detail-wrapper {
+  margin-top: 50px;
+}
+
+.car-detail-wrapper img {
+  width: 400px;
+  height: 400px;
+  border-radius: 100%;
+  object-fit: cover;
+  filter: grayscale(100%);
+}

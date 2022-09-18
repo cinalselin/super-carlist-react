@@ -5,7 +5,3 @@ Dynamic routing of a car list. The list should be generated from the cars.js fil
 ## Demo
 
 https://cinalselin-super-carlist-react.netlify.app/
-
-## Screenshots
-
-![App Screenshot](./src/Images/screenshot2.png)
